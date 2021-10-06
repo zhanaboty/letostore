@@ -1,0 +1,188 @@
+@media screen and (max-width: 375px) {
+    .block {
+        flex-direction: column;
+    }
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    *{
+        width: 375px;
+    }
+    .container1 {
+        width: 200px;
+        margin: 0;
+        padding:0;
+    }
+    .nav img{
+
+        width: 203.03px;
+        height: 31.15px;
+    }
+    .header {
+        height: 600px;
+        padding-top: 8px;
+        margin:0;
+    }
+    .p1{
+        margin-top: 283px;
+        margin-left: 20px;
+        width: 340px;
+        height: 84px;
+        display: flex;
+        font-size: 22px;
+        text-align: center;
+        line-height: 97.69%;
+        align-items: flex-end;
+        letter-spacing: 0.1em;
+        font-style: normal;
+        font-weight: normal;
+    }
+    .p2{
+        margin-top: 38px;
+        font-size: 20px;
+        width: 360px;
+        padding-bottom: 150px;
+        font-family: 'STIXIntegralsD',sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 97.69%;
+        text-align: center;
+        letter-spacing: 0.1em;
+    }
+    .offer{
+        margin-top: -150px;
+    }
+
+    .offer img{
+        width: 100px;
+        height: 94px;
+        margin-left: 130px;
+        margin-top: -100px;
+    }
+
+    .w{
+        margin-top: 26px;
+        padding-top: 26px;
+        font-size: 26px;
+        letter-spacing: 0.1em;
+        line-height: 140.69%;
+        text-align: center;
+        width: 310px;
+        height: 37px;
+        margin-left: 30px;
+    }
+
+    .first h1{
+        width: 70px;
+        height: 141px;
+        font-size: 100px;
+        margin-left: 10px;
+        margin-top: 16px;
+    }
+
+    .first p{
+        font-size: 24px;
+        width: 360px;
+        height: 34px;
+        letter-spacing: 0.1em;
+        align-items: flex-end;
+        margin-right: -30px;
+        padding-top: 140px;
+        line-height: 140.69%;
+    }
+    .second img{
+        display: none;
+    }
+    button{
+        margin-top: 58px;
+        margin-left: 15px;
+        padding: 0;
+        width: 343px;
+        height: 50px;
+    }
+
+    .aa{    
+        margin-top: 80px;
+    }
+
+    .container3{
+        width: 300px;
+        margin: 0;
+        padding:0;
+        font-weight: bold;
+    }
+    .butt{
+        margin-left: 0px;
+        margin-bottom: 10px;
+        padding:0;
+    }
+    .w{
+        margin: -26px;
+        padding:0;
+    }
+    .block{
+        padding: 0;
+        margin: 0;
+    }
+
+
+
+    .part2{
+        margin: 0;
+        padding: 0;
+    }
+
+    .s{
+        margin-top: 60px;
+        padding: 0;
+        width: 20px;
+        font-size: 20px;
+        width: 300px;
+        height: 168px;
+        margin-left: 14px;
+        font-style: normal;
+        font-weight: normal;
+        display: flex;
+    }
+    .container3 p{
+        padding: 0;
+        font-size: 26px;
+        width: 249px;
+        height: 37px;
+        margin-bottom: 23px;
+        letter-spacing: 0.1em;
+        margin-left: 20px;
+    }
+    .container3 a{
+        font-size: 16px;
+    }
+    .br{
+        display: none;;
+    }
+    .container3{
+        width: 300px;
+        margin: 0;
+        padding: 0;
+        color: #FFFFFF;
+        margin-top: 20px;
+        font-family: 'STIXIntegralsD',sans-serif;
+        padding-bottom: 69px;
+    }
+    #btn{
+        margin-bottom: 80px;
+    }
+
+    .qq{
+        padding-left: 20px;
+        margin-bottom: -2px;
+    }
+    .qqq{
+        padding-left: 20px;
+        margin-top: -10px;
+    }
+
+
+
+    
+  }
